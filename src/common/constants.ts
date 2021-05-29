@@ -1,0 +1,3 @@
+export const DB_CON_TOKEN = 'DbConnectionToken'
+export const ORDER_REPOSITORY_TOKEN = 'ORDER_REPOSITORY_TOKEN'
+export const USER_REPOSITORY_TOKEN = 'USER_REPOSITORY_TOKEN'
